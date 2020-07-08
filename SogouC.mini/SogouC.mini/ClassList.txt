@@ -1,0 +1,10 @@
+C000007	car
+C000008	economy
+C000010	IT
+C000013 health
+C000014	physical
+C000016	travel
+C000020	education
+C000022	jobWanted
+C000023	culture
+C000024	militery
